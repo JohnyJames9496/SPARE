@@ -403,18 +403,18 @@ export default function MyGarageScreen({ navigation }) {
                  return (
                    <TouchableOpacity 
                      key={bike.id} 
-                     style={[styles.card, { backgroundColor: theme.card, borderWidth: isActive ? 1 : 0, borderColor: theme.primary, marginBottom: 8 }]}
+                     style={[styles.card, { backgroundColor: isActive ? '#00A3E0' : theme.card, marginBottom: 8 }]}
                      onPress={() => handleSetActive(bike.id)}
                    >
                      <View style={{ flex: 1, flexDirection: 'row', alignItems: 'center' }}>
-                       <Ionicons name="bicycle" size={24} color={isActive ? theme.primary : 'gray'} style={{ marginRight: 15 }} />
+                       <Ionicons name="bicycle" size={24} color={isActive ? 'white' : 'gray'} style={{ marginRight: 15 }} />
                        <View>
-                         <Text style={[styles.text, { color: theme.text }]}>{bike.nickname}</Text>
-                         <Text style={{ color: 'gray', fontSize: 13, marginTop: 2 }}>{bike.model}</Text>
+                         <Text style={[styles.text, { color: isActive ? 'white' : theme.text }]}>{bike.nickname}</Text>
+                         <Text style={{ color: isActive ? 'rgba(255,255,255,0.85)' : 'gray', fontSize: 13, marginTop: 2 }}>{bike.model}</Text>
                        </View>
                      </View>
                      {isActive ? (
-                       <Ionicons name="checkmark-circle" size={24} color={theme.primary} />
+                       <Ionicons name="checkmark-circle" size={24} color="white" />
                      ) : (
                        <View style={{ width: 24, height: 24, borderRadius: 12, borderWidth: 2, borderColor: 'gray' }} />
                      )}

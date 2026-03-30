@@ -1,11 +1,11 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import {
   View, Text, FlatList, StyleSheet, TextInput, TouchableOpacity,
-  ActivityIndicator, Alert, Platform, Linking
+  ActivityIndicator, Alert, Platform, Linking, Image
 } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { db, auth } from '../config/firebase';
-import { collection, onSnapshot, query, where, getDocs, doc, getDoc, updateDoc } from 'firebase/firestore';
+import { collection, onSnapshot, query, where, getDocs, doc, getDoc, updateDoc, limit } from 'firebase/firestore';
 import { useNavigation, useFocusEffect } from '@react-navigation/native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { useTheme } from '../context/ThemeContext';
@@ -89,7 +89,7 @@ export default function PartsScreen() {
 
   // 2. Fetch Parts
   useEffect(() => {
-    const q = query(collection(db, "parts"));
+    const q = query(collection(db, "parts"), limit(150));
     const unsubscribe = onSnapshot(q, (snapshot) => {
       let list = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
       list.sort((a, b) => parseFloat(a.price || 0) - parseFloat(b.price || 0));
@@ -298,6 +298,13 @@ export default function PartsScreen() {
 
   const renderItem = ({ item }) => (
     <View style={[styles.card, { backgroundColor: theme.card }]}>
+      {(item.image || item.image_url || item.imageUrl) && (
+        <Image 
+          source={{ uri: item.image || item.image_url || item.imageUrl }} 
+          style={styles.partImage}
+          resizeMode="cover"
+        />
+      )}
       <View style={styles.info}>
         <Text style={[styles.name, { color: theme.text }]}>{item.name}</Text>
         <Text style={[styles.model, { color: theme.text }]}>{item.bike_model}</Text>
@@ -402,7 +409,10 @@ export default function PartsScreen() {
         <FlatList
           data={filteredParts}
           keyExtractor={(item) => item.id}
-          initialNumToRender={10}
+          initialNumToRender={8}
+          maxToRenderPerBatch={10}
+          windowSize={5}
+          removeClippedSubviews={true}
           renderItem={renderItem}
           contentContainerStyle={{ paddingBottom: 20 }}
         />
@@ -424,4 +434,5 @@ const styles = StyleSheet.create({
   priceContainer: { alignItems: 'flex-end', justifyContent: 'space-between' },
   price: { fontSize: 18, fontWeight: 'bold', color: 'green' },
   mapBtn: { backgroundColor: '#007AFF', borderRadius: 50, padding: 8, marginTop: 10 },
+  partImage: { width: 80, height: 80, borderRadius: 8, marginRight: 15, backgroundColor: '#f0f0f0' },
 });

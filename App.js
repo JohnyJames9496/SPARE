@@ -28,14 +28,14 @@ const Stack = createStackNavigator(); // 👈 CREATE STACK NAVIGATOR
 
 // --- 1. RIDER NAVIGATION (Tabs) ---
 function RiderTabs() {
-  const { theme } = useTheme();
+  const { theme, isDarkMode } = useTheme();
   return (
     <Tab.Navigator
       screenOptions={({ route }) => ({
         headerStyle: { backgroundColor: theme.primary },
         headerTintColor: theme.headerText,
         tabBarStyle: { backgroundColor: theme.card, borderTopColor: theme.background },
-        tabBarActiveTintColor: theme.primary,
+        tabBarActiveTintColor: isDarkMode ? '#00A3E0' : '#1B3A57',
         tabBarInactiveTintColor: 'gray',
         tabBarIcon: ({ focused, color, size }) => {
           let iconName = 'alert-circle';
