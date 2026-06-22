@@ -97,5 +97,14 @@
             "Honda Spare Parts",
             "Authorized Service"
         ]
-    }
+    },
+    {
+    "name": "Raj Auto Centre Thalassery",
+    "phone": "7012600859",
+    "latitude": 11.7525767,
+    "longitude": 75.4948870,
+    "address": "Railway Station Platform 2, Thalassery, Kerala 670104",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Genuine Parts"]
+  }
 ]
