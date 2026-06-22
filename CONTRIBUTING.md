@@ -17,7 +17,6 @@ We store our initial shop data in `src/data/real_shops.json`.
   "longitude": 77.5946,
   "address": "Street Name, City",
   "status": "approved",
-  "shop_id": "shop_xyz" 
 }
 ```
 ## We store video links inside our parts inventory so riders can learn how to install them
