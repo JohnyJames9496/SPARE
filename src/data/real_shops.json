@@ -97,6 +97,7 @@
             "Honda Spare Parts", 
             "Authorized Service"
         ]
+
     },
 
   {
@@ -411,6 +412,47 @@
         "longitude": 75.08147825508031,
         "address": "Dubai Complex, 4&5, Durga School Rd, Hosdurg, Kanhangad, Kerala 671315",
         "status": "approved"
+
+       },
+    {
+      "name": "Bombay Auto Agencies",
+      "phone": "09745343959",
+      "latitude": 9.9856679,
+      "longitude": 76.2801630,
+      "address": "Banerji Rd, Kacheripady, Ernakulam, Kerala 682018",
+      "status": "approved"
+    },
+    {
+      "name": "Safe Automobiles",
+      "phone": "09447378584",
+      "latitude": 9.9710011,
+      "longitude": 76.3173949,
+      "address": "30/1358, C1 Olaparath Building, Vyttila, Kochi, Kerala 682019",
+      "status": "approved"
+    },
+    {
+      "name": "Jay Auto",
+      "phone": "09388277001",
+      "latitude": 9.9783088,
+      "longitude": 76.2850895,
+      "address": "Jay House, 40/9132, Chittoor Rd, Shenoys, Ernakulam, Kerala 682035",
+      "status": "approved"
+    },
+    {
+      "name": "Ideal Auto Spares",
+      "phone": "09745756379",
+      "latitude": 9.9887037,
+      "longitude": 76.2858122,
+      "address": "Metro Pillar No.612, Paramara Complex, 67/254, Paramara Rd, Kacheripady, Kochi, Kerala 682018",
+      "status": "approved"
+    },
+    {
+      "name": "Alapatt Auto Spares",
+      "phone": "0000000000",
+      "latitude": 9.9963614,
+      "longitude": 76.2948361,
+      "address": "37/3913, Central Arcade, Azad Rd, Kaloor, Ernakulam, Kerala 682017",
+      "status": "approved"
     },
     {
         "name": "New Bismi Two Wheeler spare parts",
