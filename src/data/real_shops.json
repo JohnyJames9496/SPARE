@@ -1,385 +1,323 @@
 [
-    {
-        "name": "Kottarathuparampil Automobiles",
-        "phone": "9447758994",
-        "latitude": 9.32156,
-        "longitude": 76.60972,
-        "address": "Near Vellavoor Junction, Chengannur, Kerala 689121",
-        "status": "approved",
-        "services": [
-            "Two Wheeler Spare Parts",
-            "Engine Parts",
-            "Electrical Parts"
-        ]
-    },
-    {
-        "name": "Joy's 2 Wheeler & 3 Wheeler Auto Spare Parts Shop",
-        "phone": "9188246148",
-        "latitude": 9.31742,
-        "longitude": 76.61190,
-        "address": "Bethel Road, Opposite Kanjikkal Traders, Chengannur, Kerala 689121",
-        "status": "approved",
-        "services": [
-            "Motorcycle Spare Parts",
-            "Brake Parts",
-            "Transmission Parts"
-        ]
-    },
-    {
-        "name": "Nisha Automobiles",
-        "phone": "9447776638",
-        "latitude": 9.31691,
-        "longitude": 76.60995,
-        "address": "Bethel Road, Near Triveni Super Market, Chengannur, Kerala 689121",
-        "status": "approved",
-        "services": [
-            "Two Wheeler Spare Parts",
-            "General Auto Parts"
-        ]
-    },
-    {
-        "name": "Premier Auto Spares",
-        "phone": "Not Available",
-        "latitude": 9.32510,
-        "longitude": 76.61280,
-        "address": "SH 1, Chengannur Part, Kerala 689124",
-        "status": "approved",
-        "services": [
-            "Auto Spare Parts",
-            "Accessories"
-        ]
-    },
-    {
-        "name": "Car Automobiles",
-        "phone": "8281174083",
-        "latitude": 9.32388,
-        "longitude": 76.61165,
-        "address": "SH 1, Opposite Shymas Honda, Chengannur, Kerala 689121",
-        "status": "approved",
-        "services": [
-            "Auto Accessories",
-            "Spare Parts"
-        ]
-    },
-    {
-        "name": "Popular Bajaj Chengannur",
-        "phone": "9995809274",
-        "latitude": 9.32440,
-        "longitude": 76.61090,
-        "address": "SH 1, Chengannur, Kerala 689121",
-        "status": "approved",
-        "services": [
-            "Bajaj Spare Parts",
-            "Authorized Service",
-            "Engine Parts"
-        ]
-    },
-    {
-        "name": "Menethu TVS",
-        "phone": "Not Available",
-        "latitude": 9.32310,
-        "longitude": 76.60940,
-        "address": "MC Road, Chengannur, Kerala 689121",
-        "status": "approved",
-        "services": [
-            "TVS Spare Parts",
-            "Service Center"
-        ]
-    },
-    {
-        "name": "Shymas Riders Honda",
-        "phone": "Not Available",
-        "latitude": 9.32280,
-        "longitude": 76.60900,
-        "address": "MC Road, Chengannur, Kerala 689121",
-        "status": "approved",
-        "services": [
-            "Honda Spare Parts",
-            "Authorized Service"
-        ]
-    },
-    {
-        "name": "Grand Automobiles",
-        "phone": "9847921036",
-        "latitude": 10.518,
-        "longitude": 76.214,
-        "address": "R.S Road Junction, Thrissur, Kerala",
-        "status": "approved",
-        "services": [
-            "Motorcycle Spare Parts",
-            "Brake Parts",
-            "Transmission Parts"
-        ]
-    },
-    {
-        "name": "AUTOGRAND Two & Three Wheeler Spares, Accessories & Helmets",
-        "phone": "8921000069",
-        "latitude": 10.518,
-        "longitude": 76.212,
-        "address": "Poothole Road, Near Jayalakshmi Silks, Thrissur, Kerala",
-        "status": "approved",
-        "services": [
-            "Motorcycle Spare Parts",
-            "Bike Accessories",
-            "Helmet Sales"
-        ]
-    },
-    {
-        "name": "Eagle Auto Spares",
-        "phone": "8547502427",
-        "latitude": 10.528,
-        "longitude": 76.214,
-        "address": "Poothole, Thrissur, Kerala",
-        "status": "approved",
-        "services": [
-            "Motorcycle Spare Parts",
-            "Brake Parts",
-            "Transmission Parts"
-        ]
-    },
-    {
-        "name": "Trichur Auto Spares",
-        "phone": "7034900990",
-        "latitude": 10.556,
-        "longitude": 76.308,
-        "address": "Maraikal Kannara, Near Sri Durga Temple, Thrissur, Kerala",
-        "status": "approved",
-        "services": [
-            "Motorcycle Spare Parts",
-            "Engine Parts",
-            "Lubricants"
-        ]
-    },
-    {
-        "name": "Chandy's Auto Spares - Genuine Parts",
-        "phone": "7356148834",
-        "latitude": 10.521,
-        "longitude": 76.209,
-        "address": "Marathakkara - Puzhampallam Road, Thrissur, Kerala",
-        "status": "approved",
-        "services": [
-            "Motorcycle Spare Parts",
-            "Genuine Parts",
-            "Brake Parts"
-        ]
-    },
-    {
-        "name": "Marakkar Auto Parts",
-        "phone": "9447839333",
-        "latitude": 10.7700,
-        "longitude": 76.6600,
-        "address": "Coimbatore Road near stadium, Mankavu, Palakkad, Kerala 678001",
-        "status": "approved"
-    },
-    {
-        "name": "KAVITHA AUTOMOBILES",
-        "phone": "4912534941",
-        "latitude": 10.7700,
-        "longitude": 76.6500,
-        "address": "11/306, Kannara St, Santhi Nagar, Sultanpet, Palakkad, Kerala 678001",
-        "status": "approved"
-    },
-    {
-        "name": "Surya Auto Parts",
-        "phone": "9446458399",
-        "latitude": 10.8000,
-        "longitude": 76.6400,
-        "address": "Royal Plaza Complex, Calicut Road, Chunnambuthara, Olavakode, Palakkad, Kerala 678002",
-        "status": "approved"
-    },
-    {
-        "name": "Bike store , Helmets & Bike Accessories & two wheeler spare parts",
-        "phone": "8156960161",
-        "latitude": 10.7750,
-        "longitude": 76.6550,
-        "address": "Chinmaya Nagar, Chakkanthara, Palakkad, Kerala 678006",
-        "status": "approved"
-    },
-    {
-        "name": "Raj Auto Centre Thalassery",
-        "phone": "7012600859",
-        "latitude": 11.7525767,
-        "longitude": 75.4923121,
-        "address": "Railway Station Platform 2, Thalassery, Kerala 670104",
-        "status": "approved",
-        "services": [
-            "Two Wheeler Spare Parts",
-            "Engine Parts",
-            "Genuine Parts"
-        ]
-    },
-    {
-        "name": "MM Auto Spare Parts Two Wheeler",
-        "phone": "9946223069",
-        "latitude": 11.7996508,
-        "longitude": 75.4865018,
-        "address": "Thalassery - Irikkur Road, Pinarayi, Kerala 670741",
-        "status": "approved",
-        "services": [
-            "Two Wheeler Spare Parts",
-            "Engine Parts",
-            "Electrical Parts"
-        ]
-    },
-    {
-        "name": "Club 46 Pitstop",
-        "phone": "7902234646",
-        "latitude": 11.7454661,
-        "longitude": 75.4879778,
-        "address": "Customs Road, Chalil, Thalassery, Kerala 670101",
-        "status": "approved",
-        "services": [
-            "Two Wheeler Spare Parts",
-            "Bike Accessories",
-            "Safety Gear"
-        ]
-    },
-    {
-        "name": "New Wheels Automobiles",
-        "phone": "9809491379",
-        "latitude": 9.4899736,
-        "longitude": 76.3394254,
-        "address": "AATD Complex, Opposite General Hospital, Anantha Narayanapuram, Alappuzha, Kerala 688011",
-        "status": "approved"
-    },
-    {
-        "name": "National Auto Parts (Two-Three wheeler)",
-        "phone": "09995633003",
-        "latitude": 9.5006984,
-        "longitude": 76.3359824,
-        "address": "Alappuzha, Kerala 688001",
-        "status": "approved"
-    },
-    {
-        "name": "New Dreams Auto Spare Parts",
-        "phone": "09562603706",
-        "latitude": 9.5118253,
-        "longitude": 76.3386474,
-        "address": "G86Q+PFJ, SH40, Kaichoondi, Aryad South, Alappuzha, Kerala 688013",
-        "status": "approved"
-    },
-    {
-        "name": "Kichoos Royal Spares and Workshop",
-        "phone": "09650899730",
-        "latitude": 9.5162346,
-        "longitude": 76.3347882,
-        "address": "Ashramam Road, Opp. Balika Asramam, Avalookunnu P.O, Kaichoondi, Alappuzha, Kerala 688006",
-        "status": "approved"
-    },
-    {
-        "name": "ABS Spares & Service",
-        "phone": "09544111041",
-        "latitude": 9.4668561,
-        "longitude": 76.3391916,
-        "address": "Sivakripa, Vadackal, F87Q+MPC, Kalarcode, Punnapra North, Alappuzha, Kerala 688003",
-        "status": "approved"
-    },
-    {
-        "name": "Achu Motors (Royal Spares)",
-        "phone": "04772267609",
-        "latitude": 9.474599,
-        "longitude": 76.3378408,
-        "address": "F8FQ+R4P, Kalarcode, Pazhaveedu, Alappuzha, Kerala 688003",
-        "status": "approved",
-        "services": [
-            "Auto Accessories",
-            "Spare Parts"
-        ]
-    },
-    {
-        "name": "Bombay Auto Agencies",
-        "phone": "09745343959",
-        "latitude": 9.9856679,
-        "longitude": 76.2801630,
-        "address": "Banerji Rd, Kacheripady, Ernakulam, Kerala 682018",
-        "status": "approved"
-    },
-    {
-        "name": "Safe Automobiles",
-        "phone": "09447378584",
-        "latitude": 9.9710011,
-        "longitude": 76.3173949,
-        "address": "30/1358, C1 Olaparath Building, Vyttila, Kochi, Kerala 682019",
-        "status": "approved"
-    },
-    {
-        "name": "Jay Auto",
-        "phone": "09388277001",
-        "latitude": 9.9783088,
-        "longitude": 76.2850895,
-        "address": "Jay House, 40/9132, Chittoor Rd, Shenoys, Ernakulam, Kerala 682035",
-        "status": "approved"
-    },
-    {
-        "name": "Ideal Auto Spares",
-        "phone": "09745756379",
-        "latitude": 9.9887037,
-        "longitude": 76.2858122,
-        "address": "Metro Pillar No.612, Paramara Complex, 67/254, Paramara Rd, Kacheripady, Kochi, Kerala 682018",
-        "status": "approved"
-    },
-    {
-        "name": "Alapatt Auto Spares",
-        "phone": "0000000000",
-        "latitude": 9.9963614,
-        "longitude": 76.2948361,
-        "address": "37/3913, Central Arcade, Azad Rd, Kaloor, Ernakulam, Kerala 682017",
-        "status": "approved"
-    },
-    {
-        "name": "Chetak Showroom KASARAGOD",
-        "phone": "9605000291",
-        "latitude": 12.522803404066789,
-        "longitude": 74.9746778099155,
-        "address": "AM Shopping Complex, Adkathbail, Kasaragod, Kerala 671124",
-        "status": "approved"
-    },
-    {
-        "name": "Riders Hub",
-        "phone": "8078112577",
-        "latitude": 12.536600414479429,
-        "longitude": 75.00638295994435,
-        "address": "near Ajmeer Furniture, Chettumkuzhi, Kasaragod, Kerala 671123",
-        "status": "approved"
-    },
-    {
-        "name": "GOLDEN WHEELS",
-        "phone": "7770007480",
-        "latitude": 12.51282405454942,
-        "longitude": 74.98054136938971,
-        "address": "Bank Rd, near Ksrtc bustand, Kasaragod, Kerala 671121",
-        "status": "approved"
-    },
-    {
-        "name": "Popular Accessories",
-        "phone": "4994226662",
-        "latitude": 12.509472352925094,
-        "longitude": 74.99015440612216,
-        "address": "Bendichal Building, Near CTM Petrol Pump MG Road, Kasaragod, Kerala 671121",
-        "status": "approved"
-    },
-    {
-        "name": "ROYAL AUTO TWO WHEELERS",
-        "phone": "9567588156",
-        "latitude": 12.520197644942394,
-        "longitude": 74.98672117871772,
-        "address": "Mac Win Kunnil Trade Centre Building, Bank Road, opposite Kerala Ayurvedic Hospital, near Ramdev Electricals, Kasaragod, Kerala 671121",
-        "status": "approved"
-    },
-    {
-        "name": "A R Old Motor Parts",
-        "phone": "7942695616",
-        "latitude": 12.528911616455213,
-        "longitude": 74.99976744285459,
-        "address": "Mehboob Road, Anangoor, Kasaragod, Kerala 671121",
-        "status": "approved"
-    },
-    {
-        "name": "PRIME AUTO PARTS",
-        "phone": "8460222826",
-        "latitude": 12.329086961647878,
-        "longitude": 75.08147825508031,
-        "address": "Dubai Complex, 4&5, Durga School Rd, Hosdurg, Kanhangad, Kerala 671315",
-        "status": "approved"
-    }
+  {
+    "name": "Kottarathuparampil Automobiles",
+    "phone": "9447758994",
+    "latitude": 9.32156,
+    "longitude": 76.60972,
+    "address": "Near Vellavoor Junction, Chengannur, Kerala 689121",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Electrical Parts"]
+  },
+  {
+    "name": "Joy's 2 Wheeler & 3 Wheeler Auto Spare Parts Shop",
+    "phone": "9188246148",
+    "latitude": 9.31742,
+    "longitude": 76.61190,
+    "address": "Bethel Road, Opposite Kanjikkal Traders, Chengannur, Kerala 689121",
+    "status": "approved",
+    "services": ["Motorcycle Spare Parts", "Brake Parts", "Transmission Parts"]
+  },
+  {
+    "name": "Nisha Automobiles",
+    "phone": "9447776638",
+    "latitude": 9.31691,
+    "longitude": 76.60995,
+    "address": "Bethel Road, Near Triveni Super Market, Chengannur, Kerala 689121",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "General Auto Parts"]
+  },
+  {
+    "name": "Premier Auto Spares",
+    "phone": "Not Available",
+    "latitude": 9.32510,
+    "longitude": 76.61280,
+    "address": "SH 1, Chengannur Part, Kerala 689124",
+    "status": "approved",
+    "services": ["Auto Spare Parts", "Accessories"]
+  },
+  {
+    "name": "Car Automobiles",
+    "phone": "8281174083",
+    "latitude": 9.32388,
+    "longitude": 76.61165,
+    "address": "SH 1, Opposite Shymas Honda, Chengannur, Kerala 689121",
+    "status": "approved",
+    "services": ["Auto Accessories", "Spare Parts"]
+  },
+  {
+    "name": "Popular Bajaj Chengannur",
+    "phone": "9995809274",
+    "latitude": 9.32440,
+    "longitude": 76.61090,
+    "address": "SH 1, Chengannur, Kerala 689121",
+    "status": "approved",
+    "services": ["Bajaj Spare Parts", "Authorized Service", "Engine Parts"]
+  },
+  {
+    "name": "Menethu TVS",
+    "phone": "Not Available",
+    "latitude": 9.32310,
+    "longitude": 76.60940,
+    "address": "MC Road, Chengannur, Kerala 689121",
+    "status": "approved",
+    "services": ["TVS Spare Parts", "Service Center"]
+  },
+  {
+    "name": "Shymas Riders Honda",
+    "phone": "Not Available",
+    "latitude": 9.32280,
+    "longitude": 76.60900,
+    "address": "MC Road, Chengannur, Kerala 689121",
+    "status": "approved",
+    "services": ["Honda Spare Parts", "Authorized Service"]
+  },
+  {
+    "name": "Grand Automobiles",
+    "phone": "9847921036",
+    "latitude": 10.518,
+    "longitude": 76.214,
+    "address": "R.S Road Junction, Thrissur, Kerala",
+    "status": "approved",
+    "services": ["Motorcycle Spare Parts", "Brake Parts", "Transmission Parts"]
+  },
+  {
+    "name": "AUTOGRAND Two & Three Wheeler Spares, Accessories & Helmets",
+    "phone": "8921000069",
+    "latitude": 10.518,
+    "longitude": 76.212,
+    "address": "Poothole Road, Near Jayalakshmi Silks, Thrissur, Kerala",
+    "status": "approved",
+    "services": ["Motorcycle Spare Parts", "Bike Accessories", "Helmet Sales"]
+  },
+  {
+    "name": "Eagle Auto Spares",
+    "phone": "8547502427",
+    "latitude": 10.528,
+    "longitude": 76.214,
+    "address": "Poothole, Thrissur, Kerala",
+    "status": "approved",
+    "services": ["Motorcycle Spare Parts", "Brake Parts", "Transmission Parts"]
+  },
+  {
+    "name": "Trichur Auto Spares",
+    "phone": "7034900990",
+    "latitude": 10.556,
+    "longitude": 76.308,
+    "address": "Maraikal Kannara, Near Sri Durga Temple, Thrissur, Kerala",
+    "status": "approved",
+    "services": ["Motorcycle Spare Parts", "Engine Parts", "Lubricants"]
+  },
+  {
+    "name": "Chandy's Auto Spares - Genuine Parts",
+    "phone": "7356148834",
+    "latitude": 10.521,
+    "longitude": 76.209,
+    "address": "Marathakkara - Puzhampallam Road, Thrissur, Kerala",
+    "status": "approved",
+    "services": ["Motorcycle Spare Parts", "Genuine Parts", "Brake Parts"]
+  },
+  {
+    "name": "Marakkar Auto Parts",
+    "phone": "9447839333",
+    "latitude": 10.7700,
+    "longitude": 76.6600,
+    "address": "Coimbatore Road near stadium, Mankavu, Palakkad, Kerala 678001",
+    "status": "approved"
+  },
+  {
+    "name": "KAVITHA AUTOMOBILES",
+    "phone": "4912534941",
+    "latitude": 10.7700,
+    "longitude": 76.6500,
+    "address": "11/306, Kannara St, Santhi Nagar, Sultanpet, Palakkad, Kerala 678001",
+    "status": "approved"
+  },
+  {
+    "name": "Surya Auto Parts",
+    "phone": "9446458399",
+    "latitude": 10.8000,
+    "longitude": 76.6400,
+    "address": "Royal Plaza Complex, Calicut Road, Chunnambuthara, Olavakode, Palakkad, Kerala 678002",
+    "status": "approved"
+  },
+  {
+    "name": "Bike store , Helmets & Bike Accessories & two wheeler spare parts",
+    "phone": "8156960161",
+    "latitude": 10.7750,
+    "longitude": 76.6550,
+    "address": "Chinmaya Nagar, Chakkanthara, Palakkad, Kerala 678006",
+    "status": "approved"
+  },
+  {
+    "name": "Raj Auto Centre Thalassery",
+    "phone": "7012600859",
+    "latitude": 11.7525767,
+    "longitude": 75.4923121,
+    "address": "Railway Station Platform 2, Thalassery, Kerala 670104",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Genuine Parts"]
+  },
+  {
+    "name": "MM Auto Spare Parts Two Wheeler",
+    "phone": "9946223069",
+    "latitude": 11.7996508,
+    "longitude": 75.4865018,
+    "address": "Thalassery - Irikkur Road, Pinarayi, Kerala 670741",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Engine Parts", "Electrical Parts"]
+  },
+  {
+    "name": "Club 46 Pitstop",
+    "phone": "7902234646",
+    "latitude": 11.7454661,
+    "longitude": 75.4879778,
+    "address": "Customs Road, Chalil, Thalassery, Kerala 670101",
+    "status": "approved",
+    "services": ["Two Wheeler Spare Parts", "Bike Accessories", "Safety Gear"]
+  },
+  {
+    "name": "New Wheels Automobiles",
+    "phone": "9809491379",
+    "latitude": 9.4899736,
+    "longitude": 76.3394254,
+    "address": "AATD Complex, Opposite General Hospital, Anantha Narayanapuram, Alappuzha, Kerala 688011",
+    "status": "approved"
+  },
+  {
+    "name": "National Auto Parts (Two-Three wheeler)",
+    "phone": "09995633003",
+    "latitude": 9.5006984,
+    "longitude": 76.3359824,
+    "address": "Alappuzha, Kerala 688001",
+    "status": "approved"
+  },
+  {
+    "name": "New Dreams Auto Spare Parts",
+    "phone": "09562603706",
+    "latitude": 9.5118253,
+    "longitude": 76.3386474,
+    "address": "G86Q+PFJ, SH40, Kaichoondi, Aryad South, Alappuzha, Kerala 688013",
+    "status": "approved"
+  },
+  {
+    "name": "Kichoos Royal Spares and Workshop",
+    "phone": "09650899730",
+    "latitude": 9.5162346,
+    "longitude": 76.3347882,
+    "address": "Ashramam Road, Opp. Balika Asramam, Avalookunnu P.O, Kaichoondi, Alappuzha, Kerala 688006",
+    "status": "approved"
+  },
+  {
+    "name": "ABS Spares & Service",
+    "phone": "09544111041",
+    "latitude": 9.4668561,
+    "longitude": 76.3391916,
+    "address": "Sivakripa, Vadackal, F87Q+MPC, Kalarcode, Punnapra North, Alappuzha, Kerala 688003",
+    "status": "approved"
+  },
+  {
+    "name": "Achu Motors (Royal Spares)",
+    "phone": "04772267609",
+    "latitude": 9.474599,
+    "longitude": 76.3378408,
+    "address": "F8FQ+R4P, Kalarcode, Pazhaveedu, Alappuzha, Kerala 688003",
+    "status": "approved",
+    "services": ["Auto Accessories", "Spare Parts"]
+  },
+  {
+    "name": "Bombay Auto Agencies",
+    "phone": "09745343959",
+    "latitude": 9.9856679,
+    "longitude": 76.2801630,
+    "address": "Banerji Rd, Kacheripady, Ernakulam, Kerala 682018",
+    "status": "approved"
+  },
+  {
+    "name": "Safe Automobiles",
+    "phone": "09447378584",
+    "latitude": 9.9710011,
+    "longitude": 76.3173949,
+    "address": "30/1358, C1 Olaparath Building, Vyttila, Kochi, Kerala 682019",
+    "status": "approved"
+  },
+  {
+    "name": "Jay Auto",
+    "phone": "09388277001",
+    "latitude": 9.9783088,
+    "longitude": 76.2850895,
+    "address": "Jay House, 40/9132, Chittoor Rd, Shenoys, Ernakulam, Kerala 682035",
+    "status": "approved"
+  },
+  {
+    "name": "Ideal Auto Spares",
+    "phone": "09745756379",
+    "latitude": 9.9887037,
+    "longitude": 76.2858122,
+    "address": "Metro Pillar No.612, Paramara Complex, 67/254, Paramara Rd, Kacheripady, Kochi, Kerala 682018",
+    "status": "approved"
+  },
+  {
+    "name": "Alapatt Auto Spares",
+    "phone": "0000000000",
+    "latitude": 9.9963614,
+    "longitude": 76.2948361,
+    "address": "37/3913, Central Arcade, Azad Rd, Kaloor, Ernakulam, Kerala 682017",
+    "status": "approved"
+  },
+  {
+    "name": "Chetak Showroom KASARAGOD",
+    "phone": "9605000291",
+    "latitude": 12.522803404066789,
+    "longitude": 74.9746778099155,
+    "address": "AM Shopping Complex, Adkathbail, Kasaragod, Kerala 671124",
+    "status": "approved"
+  },
+  {
+    "name": "Riders Hub",
+    "phone": "8078112577",
+    "latitude": 12.536600414479429,
+    "longitude": 75.00638295994435,
+    "address": "near Ajmeer Furniture, Chettumkuzhi, Kasaragod, Kerala 671123",
+    "status": "approved"
+  },
+  {
+    "name": "GOLDEN WHEELS",
+    "phone": "7770007480",
+    "latitude": 12.51282405454942,
+    "longitude": 74.98054136938971,
+    "address": "Bank Rd, near Ksrtc bustand, Kasaragod, Kerala 671121",
+    "status": "approved"
+  },
+  {
+    "name": "Popular Accessories",
+    "phone": "4994226662",
+    "latitude": 12.509472352925094,
+    "longitude": 74.99015440612216,
+    "address": "Bendichal Building, Near CTM Petrol Pump MG Road, Kasaragod, Kerala 671121",
+    "status": "approved"
+  },
+  {
+    "name": "ROYAL AUTO TWO WHEELERS",
+    "phone": "9567588156",
+    "latitude": 12.520197644942394,
+    "longitude": 74.98672117871772,
+    "address": "Mac Win Kunnil Trade Centre Building, Bank Road, opposite Kerala Ayurvedic Hospital, near Ramdev Electricals, Kasaragod, Kerala 671121",
+    "status": "approved"
+  },
+  {
+    "name": "A R Old Motor Parts",
+    "phone": "7942695616",
+    "latitude": 12.528911616455213,
+    "longitude": 74.99976744285459,
+    "address": "Mehboob Road, Anangoor, Kasaragod, Kerala 671121",
+    "status": "approved"
+  },
+  {
+    "name": "PRIME AUTO PARTS",
+    "phone": "8460222826",
+    "latitude": 12.329086961647878,
+    "longitude": 75.08147825508031,
+    "address": "Dubai Complex, 4&5, Durga School Rd, Hosdurg, Kanhangad, Kerala 671315",
+    "status": "approved"
+  }
 ]
